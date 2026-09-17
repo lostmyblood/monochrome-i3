@@ -212,3 +212,6 @@ exec_always --no-startup-id ~/.fehbg
 
 # Commit Github DotFiles
 exec_always --no-startup-id ~/.dotfiles/auto_push.sh
+
+
+# GitHub Auto-Sync Test Comment
